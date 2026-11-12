@@ -7,7 +7,7 @@
 | Assignment | Event Registration and Ticket Management |
 | Course | XBCS2014N Advanced Programming |
 | Learning outcomes | SLO2 (object-oriented design and implementation in C++), SLO4 (advanced C++ features) |
-| Student name | *[your name]* |
+| Student name | Dinura |
 | Student ID | *[your student ID]* |
 | Submission date | *[submission date]* |
 | Language / standard | C++17 (`g++ -std=c++17`) |
